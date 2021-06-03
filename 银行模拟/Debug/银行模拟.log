@@ -1,0 +1,3 @@
+﻿  event.c
+C:\Users\HZYS\Desktop\数据结构与算法\event\event.c(9,21): warning C4244:  “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  银行模拟.vcxproj -> C:\Users\HZYS\Desktop\C语言练习\银行模拟\Debug\银行模拟.exe

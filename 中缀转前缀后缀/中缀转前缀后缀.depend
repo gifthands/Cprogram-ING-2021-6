@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\hzys\desktop\c语言练习\中缀转前缀后缀\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1568705182 source:c:\users\hzys\desktop\c语言练习\中缀转前缀后缀\前后缀.cpp
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
